@@ -52,7 +52,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
 
 
-  // bool isVisitor = false;
+  // bool isVisitor = false
 
 
 
