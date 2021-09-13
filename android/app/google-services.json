@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910574615247",
+    "project_id": "bluesky-project-318113",
+    "storage_bucket": "bluesky-project-318113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910574615247:android:fa2400364250613381d5ba",
+        "android_client_info": {
+          "package_name": "com.example.bluesky_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910574615247-dabfb0ba3kk58cccv6jjpgas1dpavjo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-h9eUtV_xMKMSF08z1neviEOJfGopGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910574615247-dabfb0ba3kk58cccv6jjpgas1dpavjo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
